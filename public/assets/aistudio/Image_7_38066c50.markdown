@@ -1,0 +1,239 @@
+---
+name: Executive Legislative Civic
+colors:
+  surface: '#061426'
+  surface-dim: '#061426'
+  surface-bright: '#2d3a4e'
+  surface-container-lowest: '#020e21'
+  surface-container-low: '#0e1c2f'
+  surface-container: '#132033'
+  surface-container-high: '#1d2a3e'
+  surface-container-highest: '#28354a'
+  on-surface: '#d6e3fe'
+  on-surface-variant: '#d2c5ae'
+  inverse-surface: '#d6e3fe'
+  inverse-on-surface: '#243145'
+  outline: '#9b8f7b'
+  outline-variant: '#4e4635'
+  surface-tint: '#f2bf40'
+  primary: '#ffe2a6'
+  on-primary: '#3f2e00'
+  primary-container: '#f5c242'
+  on-primary-container: '#6b5000'
+  inverse-primary: '#785a00'
+  secondary: '#afc8ee'
+  on-secondary: '#173150'
+  secondary-container: '#2f4868'
+  on-secondary-container: '#9eb7dc'
+  tertiary: '#bbedff'
+  on-tertiary: '#003642'
+  tertiary-container: '#50d9fe'
+  on-tertiary-container: '#005c70'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#ffdf9b'
+  primary-fixed-dim: '#f2bf40'
+  on-primary-fixed: '#251a00'
+  on-primary-fixed-variant: '#5b4300'
+  secondary-fixed: '#d3e3ff'
+  secondary-fixed-dim: '#afc8ee'
+  on-secondary-fixed: '#001c39'
+  on-secondary-fixed-variant: '#2f4868'
+  tertiary-fixed: '#b3ebff'
+  tertiary-fixed-dim: '#4cd6fb'
+  on-tertiary-fixed: '#001f27'
+  on-tertiary-fixed-variant: '#004e5f'
+  background: '#061426'
+  on-background: '#d6e3fe'
+  surface-variant: '#28354a'
+typography:
+  display-lg:
+    fontFamily: Public Sans
+    fontSize: 40px
+    fontWeight: '700'
+    lineHeight: 48px
+    letterSpacing: -0.02em
+  display-lg-mobile:
+    fontFamily: Public Sans
+    fontSize: 30px
+    fontWeight: '700'
+    lineHeight: 38px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Public Sans
+    fontSize: 32px
+    fontWeight: '600'
+    lineHeight: 40px
+    letterSpacing: -0.01em
+  headline-lg-mobile:
+    fontFamily: Public Sans
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Public Sans
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+  headline-sm:
+    fontFamily: Public Sans
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+  title-lg:
+    fontFamily: Public Sans
+    fontSize: 18px
+    fontWeight: '600'
+    lineHeight: 26px
+  title-md:
+    fontFamily: Public Sans
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 24px
+  body-lg:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 26px
+  body-md:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 22px
+  body-sm:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 18px
+  label-lg:
+    fontFamily: Public Sans
+    fontSize: 13px
+    fontWeight: '600'
+    lineHeight: 18px
+    letterSpacing: 0.04em
+  label-md:
+    fontFamily: Public Sans
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.05em
+  label-sm:
+    fontFamily: Public Sans
+    fontSize: 10px
+    fontWeight: '700'
+    lineHeight: 14px
+    letterSpacing: 0.06em
+rounded:
+  sm: 0.125rem
+  DEFAULT: 0.25rem
+  md: 0.375rem
+  lg: 0.5rem
+  xl: 0.75rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 2rem
+  margin-mobile: 1rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+This design system establishes an executive, dignified, and authoritative digital presence for civic oversight, statutory tracking, and legislative intelligence. Crafted for parliamentary researchers, legal counsels, public servants, and engaged citizens, the interface prioritizes absolute clarity, legislative decorum, and structural trust.
+
+The aesthetic fuses modern institutional minimalism with subtle statecraft symbolism. The deep nocturnal canvas invokes the gravitas of parliamentary chambers during late-night floor sessions, while warm golden accents mirror the eight-rayed sun of civic sovereignty. The mood balances solemn constitutional duty with modern computational speed: reliable, non-partisan, transparent, and unyielding in legal rigor.
+
+## Colors
+
+The palette establishes an executive nocturnal environment tailored for dense legal reading, legislative analysis, and document indexing:
+
+- **Primary Accent (`#F5C242`)**: Represents civic authority, legislative action, and sovereign clarity. Reserved for high-value interactive calls-to-action, key vote tallies, active navigation states, and primary focal highlights.
+- **Secondary Structure (`#1B3554`)**: Institutional slate navy providing structural containment, interactive tile backgrounds, and secondary card surfaces.
+- **Tertiary Utility (`#00B4D8`)**: Verified state blue/cyan used exclusively for verified bill passages, presidential ratifications, gazette cross-references, and procedural validation badges. An auxiliary emerald (`#10B981`) indicates enacted republic acts.
+- **Canvas & Neutral Surfaces**:
+  - Deep Canvas: `#07111E` (Lowest substrate)
+  - Surface Default: `#0B192C` (Main layout shell)
+  - Elevated Container: `#0F223A` (Panels, drawers, sidebars)
+  - Interactive Container: `#152A42` (Data tables, modular widgets)
+- **Typography & High-Contrast Readability**:
+  - Primary Text: `#F1F5F9` (Statutory text, headers, essential data points)
+  - Secondary Text: `#E2E8F0` (Abstracts, bill co-sponsor lines, metadata)
+  - Tertiary / Muted: `#94A3B8` (Committee tags, reading numbers, legal timestamps)
+- **Subtle Boundaries**: Architectural dividers and card borders use `#F5C242` at 12% to 20% opacity or `#1E3A5F` at 50% opacity to ensure razor-sharp compartmentalization without visual clutter.
+
+## Typography
+
+The typographic hierarchy is calibrated for rigorous statutory navigation. `Public Sans` acts as the civic masthead: clear, unyielding, and institutional. It anchors document titles, bill designations (e.g., "H.B. No. 4728"), vote resolutions, and legislative headers. 
+
+`Inter` governs all discursive text, section annotations, legal provisions, and system transcripts. Its mechanical neutrality ensures effortless readability during extended legal research under low-light conditions.
+
+Uppercase transformations with increased letter spacing (`0.04em` to `0.06em`) are strictly reserved for legislative state tracking, committee types, and legal status chips (e.g., "EN BANC", "THIRD READING", "BICAMERAL CONFERENCE").
+
+## Layout & Spacing
+
+The layout is structured around an executive 12-column grid designed for deep multi-column analysis:
+
+- **Desktop (1200px and up)**: 12-column layout with 24px (`1.5rem`) gutters and a 32px (`2rem`) canvas margin. Left 3 columns persist for docket filters and chamber indexes; middle 6 columns contain bill provisions and legal text; right 3 columns anchor AI statutory summaries and vote history.
+- **Tablet (768px – 1199px)**: 8-column layout with 20px gutters and 24px margins. Collapses ancillary AI tools into floating split sheets or dedicated secondary tabs.
+- **Mobile (< 768px)**: 4-column layout with 16px (`1rem`) gutters and 16px (`1rem`) outer margins. Stacks congressional status timelines sequentially, converting sidebars into off-canvas drawers.
+
+Spacing rhythm is strictly governed by 4px and 8px increments. Dense legislative tabular data leverages `space-xs` and `space-sm` for compact cell packing, while structural articles and clauses maintain `space-lg` to `space-xl` separation to preserve optical dignity.
+
+## Elevation & Depth
+
+In keeping with an institutional dark interface, visual hierarchy relies primarily on **tonal stepping** and **subtle architectural borders**, avoiding exaggerated or ungrounded drop shadows.
+
+- **Level 0 (Canvas Base)**: `#07111E`. The deep foundation layer for background viewports and reading canvasses.
+- **Level 1 (Structural Surfaces)**: `#0B192C` bordered by a 1px hairline stroke of `rgba(245, 194, 66, 0.08)`. Used for side navigation rails and permanent page layouts.
+- **Level 2 (Executive Cards & Data Grids)**: `#0F223A` with a 1px border of `rgba(245, 194, 66, 0.14)`. Houses bills, legislative briefs, and speech transcripts.
+- **Level 3 (Interactive Overlays & Flyouts)**: `#152A42` accompanied by a localized ambient shadow: `0 8px 24px -4px rgba(0, 0, 0, 0.60), 0 2px 6px -1px rgba(245, 194, 66, 0.06)`. Reserved for modal amendments, voting breakdowns, and dropdown menus.
+- **Level 4 (Executive Focus & Alerts)**: Surface `#1B3554` paired with an accented border `rgba(245, 194, 66, 0.40)` and a high-subtlety outer gold glow: `0 0 16px rgba(245, 194, 66, 0.08)`.
+
+## Shapes
+
+The design system enforces an authoritative **Soft (Level 1)** geometric language. Radii remain compact, disciplined, and measured:
+
+- **Base Components**: 4px (`0.25rem`) corner radius applied to inputs, buttons, badges, table rows, and tooltips.
+- **Containers & Panels (`rounded-lg`)**: 8px (`0.5rem`) corner radius for legislative overview cards, amendment panels, and dialogue windows.
+- **Modal Viewports (`rounded-xl`)**: 12px (`0.75rem`) corner radius for large parliamentary review sheets and search command palettes.
+
+Pill shapes are intentionally avoided for actionable controls to preserve institutional gravity; they appear only as micro status chips to distinctly indicate bill health and progress flags.
+
+## Components
+
+### Buttons
+- **Primary Civic**: Background `#F5C242`, text `#07111E` (`Public Sans`, weight 600). Hover state lightens to `#ECC047`; active state `#D9A726`. Radii are fixed at 4px.
+- **Secondary Slate**: Background `#152A42`, text `#F1F5F9`, border 1px solid `rgba(245, 194, 66, 0.20)`. Hover shifts background to `#1B3554` with gold border opacity rising to 40%.
+- **Ghost/Text**: Text `#E2E8F0`, transparent fill. Hover background `rgba(241, 245, 249, 0.05)`.
+
+### Legislative Status Chips
+- Pill or 4px soft tags displaying legislative trajectories.
+- **Enacted / Ratified**: Background `rgba(16, 185, 129, 0.12)`, text `#34D399`, border `1px solid rgba(16, 185, 129, 0.3)`.
+- **In Committee / Reading**: Background `rgba(245, 194, 66, 0.10)`, text `#F5C242`, border `1px solid rgba(245, 194, 66, 0.25)`.
+- **Vetoed / Archived**: Background `rgba(239, 68, 68, 0.12)`, text `#F87171`, border `1px solid rgba(239, 68, 68, 0.3)`.
+
+### Input Fields & Search Bars
+- Background `#0B192C`, text `#F1F5F9`, placeholder `#94A3B8`. Border 1px solid `#1E3A5F`. 
+- Focus state: border color switches cleanly to `#F5C242` with an ambient ring: `box-shadow: 0 0 0 1px #F5C242`.
+- Include integrated bill prefix selectors (e.g., "S.B.", "H.B.", "P.S. Res.") styled as adjacent unified blocks.
+
+### Legislative Cards & Clauses
+- Background `#0F223A`, border 1px solid `rgba(245, 194, 66, 0.12)`.
+- Padding: 24px internal (`space-lg`). Header band distinctly demarcates measure numbers, primary author avatar, and reading phase.
+- Left edge accents: 3px solid `#F5C242` on active or prioritized legislation.
+
+### Checkboxes & Radios
+- Size 16px × 16px. Background `#0B192C`, border 1.5px solid `#1E3A5F`, corner radius 2px for checkboxes, circular for radios.
+- Checked state: background `#F5C242`, checkmark/center pip `#07111E`.
+
+### Data Grids & Roll-Call Tables
+- Table headers: Background `#0B192C`, text `#94A3B8`, uppercase `label-md` font, bottom border 1px solid `rgba(245, 194, 66, 0.16)`.
+- Rows: Alternate background between `#0F223A` and `#122438` for readability; hover background `#1B3554`. Cell borders `1px solid rgba(255, 255, 255, 0.04)`.

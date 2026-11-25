@@ -1,0 +1,8 @@
+{
+  "name": "BatasPH — Executive Legislative, Batas & Bills Tracker",
+  "description": "An executive Philippine civic oversight, Batas and Bills tracker, and AI legislative FAQ hub for Republic Acts, Senate and House Bills, bicameral conference amendments, and roll-call tallies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
